@@ -1,21 +1,96 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D4AF37&height=230&section=header&text=Rafat%20Ahmed&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Rafat Ahmed" />
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/rafatverse) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rafatverse) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafatverse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafatverse) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rafatverse) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rafatverse) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rafatverse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rafatverse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafatverse@gmail.com) 
+<a href="https://github.com/RafatVerse">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1100&color=D4AF37&center=true&vCenter=true&width=640&height=50&lines=Hi%2C+I%27m+Rafat+%F0%9F%91%8B;I+build+apps+for+web+and+mobile;Clean+design.+Clean+code.;Still+learning.+Still+shipping." alt="Typing animation" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RafatVerse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RafatVerse&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RafatVerse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RafatVerse&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=RafatVerse&label=Profile%20views&color=D4AF37&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/RafatVerse?label=Followers&style=flat&labelColor=0D0D0D&color=D4AF37" alt="Followers" />
+<img src="https://img.shields.io/github/stars/RafatVerse?label=Stars&style=flat&labelColor=0D0D0D&color=D4AF37&affiliations=OWNER" alt="Stars" />
 
----
-[![](https://komarev.com/ghpvc/?username=RafatVerse&icon=0&color=10)](https://visitcount.itsvg.in)
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> *Every app you use today started as one stubborn idea at 2 AM.*
+> *Pain teaches you. Bugs teach you louder.*
+> *The ones who ship are not the ones who never fail.*
+> *They are the ones who open the editor again.*
+
+</div>
+
+<br/>
+
+## About me
+
+- I'm a full-stack developer. I build for the web and for mobile, from the database to the last pixel.
+- I like interfaces that feel calm: rounded corners, space to breathe, nothing extra.
+- I design in Figma first, then I make it real in code.
+- If you have an idea and need someone to build it, say hi.
+
+<br/>
+
+## Tech stack
+
+<div align="center">
+  <img src="./assets/skills.svg" width="100%" alt="Skills" />
+</div>
+
+<br/>
+
+| | |
+|:--|:--|
+| **Mobile** | `React Native` `Kotlin` `Java` `Swift` `Flutter` |
+| **Frontend** | `React` `Vue` `Vite` `JavaScript` `HTML5` `CSS` `Tailwind CSS` |
+| **Backend** | `Python` `PHP` `Firebase` `Supabase` |
+| **Databases** | `PostgreSQL` `MySQL` `SQLite` |
+| **Deploy and design** | `Vercel` `Cloudflare` `Figma` |
+
+<br/>
+
+## GitHub stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RafatVerse&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9&border_radius=20&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafatVerse&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=C9C9C9&border_radius=20&langs_count=8" alt="Top languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RafatVerse&hide_border=true&background=0D0D0D&border_radius=20&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=C9C9C9&dates=8A8A8A&stroke=2A2A2A" alt="Contribution streak" />
+</div>
+
+<br/>
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafatVerse&bg_color=0D0D0D&color=C9C9C9&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&radius=20&title_color=D4AF37" width="100%" alt="Activity graph" />
+</div>
+
+<br/>
+
+## Contribution snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RafatVerse/RafatVerse/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
+</div>
+
+<br/>
+
+## Let's connect
+
+<div align="center">
+
+<a href="mailto:rafatverse@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=flat&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
+<a href="https://linkedin.com/in/rafatverse"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" /></a>
+<a href="https://x.com/rafatverse"><img src="https://img.shields.io/badge/X-0D0D0D?style=flat&logo=x&logoColor=D4AF37" alt="X" /></a>
+<a href="https://instagram.com/rafatverse"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat&logo=instagram&logoColor=D4AF37" alt="Instagram" /></a>
+<a href="https://facebook.com/rafatverse"><img src="https://img.shields.io/badge/Facebook-0D0D0D?style=flat&logo=facebook&logoColor=D4AF37" alt="Facebook" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:000000&height=120&section=footer" width="100%" alt="" />
