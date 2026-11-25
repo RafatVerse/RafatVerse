@@ -1,1 +1,67 @@
 
+name: Update Simulated Profile Visits
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "15 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: demo-counter
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Increase Simulated Visits
+        shell: bash
+        run: |
+          mkdir -p assets
+
+          if [ ! -f demo-count.txt ]; then
+            echo 684 > demo-count.txt
+          fi
+
+          current=$(cat demo-count.txt)
+          increment=$((16 + RANDOM % 5))
+          updated=$((current + increment))
+
+          echo "$updated" > demo-count.txt
+
+          cat > assets/demo-visits.svg <<EOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="420" height="110" viewBox="0 0 420 110">
+            <rect width="420" height="110" rx="14" fill="#080808"/>
+            <rect x="1" y="1" width="418" height="108" rx="13" fill="none" stroke="#D6B66F" stroke-opacity=".7"/>
+            <text x="24" y="36" fill="#D6B66F" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">SIMULATED PROFILE VISITS</text>
+            <text x="24" y="78" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="34" font-weight="bold">$updated</text>
+            <text x="390" y="76" fill="#D6B66F" font-family="Arial,sans-serif" font-size="12" text-anchor="end">DEMO MODE</text>
+          </svg>
+          EOF
+
+          echo "Previous: $current"
+          echo "Added: $increment"
+          echo "Updated: $updated"
+
+      - name: Commit Updated Demo Counter
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add demo-count.txt assets/demo-visits.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update simulated profile visits"
+          git push
