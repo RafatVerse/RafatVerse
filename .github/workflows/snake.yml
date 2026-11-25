@@ -1,32 +1,24 @@
 
-name: Generate Gold Contribution Snake
+name: Generate Contribution Snake
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "0 0 * * *"
-
   push:
     branches:
       - main
-      - master
 
 permissions:
   contents: write
 
-concurrency:
-  group: contribution-snake
-  cancel-in-progress: true
-
 jobs:
   generate:
-    name: Build Contribution Animation
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Generate Snake Animation
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: RafatVerse
@@ -34,7 +26,7 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23FFFFFF&color_dots=%23080808,%233A3020,%23745C2C,%23B08D45,%23D6B66F
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23FFFFFF&color_dots=%23080808,%233A3020,%23745C2C,%23B08D45,%23D6B66F
 
-      - name: Publish Snake Files
+      - name: Publish Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
