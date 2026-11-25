@@ -1,96 +1,277 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D4AF37&height=230&section=header&text=Rafat%20Ahmed&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Rafat Ahmed" />
-
-<a href="https://github.com/RafatVerse">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1100&color=D4AF37&center=true&vCenter=true&width=640&height=50&lines=Hi%2C+I%27m+Rafat+%F0%9F%91%8B;I+build+apps+for+web+and+mobile;Clean+design.+Clean+code.;Still+learning.+Still+shipping." alt="Typing animation" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,35:17120B,70:6F5428,100:C6A66B&text=RAFAT%20AHMED&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20BUILDER%20%7C%20LIFELONG%20LEARNER&descAlignY=60&descSize=14&animation=fadeIn" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RafatVerse&label=Profile%20views&color=D4AF37&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/RafatVerse?label=Followers&style=flat&labelColor=0D0D0D&color=D4AF37" alt="Followers" />
-<img src="https://img.shields.io/github/stars/RafatVerse?label=Stars&style=flat&labelColor=0D0D0D&color=D4AF37&affiliations=OWNER" alt="Stars" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=C6A66B&center=true&vCenter=true&width=760&height=45&lines=I+turn+ideas+into+digital+experiences.;I+build+for+people%2C+not+just+screens.;Clean+code.+Thoughtful+design.+Real+purpose.;Always+learning.+Always+building." />
 
 <br/><br/>
 
-> *Every app you use today started as one stubborn idea at 2 AM.*
-> *Pain teaches you. Bugs teach you louder.*
-> *The ones who ship are not the ones who never fail.*
-> *They are the ones who open the editor again.*
+<a href="https://github.com/RafatVerse">
+<img src="https://komarev.com/ghpvc/?username=RafatVerse&style=for-the-badge&color=9A7B43&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/RafatVerse?tab=followers">
+<img src="https://img.shields.io/github/followers/RafatVerse?style=for-the-badge&logo=github&color=242424&label=FOLLOWERS" />
+</a>
+
+**Design-minded developer. Curious by nature. Focused on building things that matter.**
 
 </div>
 
-<br/>
+---
 
-## About me
+## ✦ About Me
 
-- I'm a full-stack developer. I build for the web and for mobile, from the database to the last pixel.
-- I like interfaces that feel calm: rounded corners, space to breathe, nothing extra.
-- I design in Figma first, then I make it real in code.
-- If you have an idea and need someone to build it, say hi.
+Hey, I'm **Rafat Ahmed** — a full-stack developer who enjoys turning ideas into useful, well-crafted digital experiences.
 
-<br/>
+I like working across the full process: understanding an idea, planning how it should work, shaping the interface, and bringing everything together with code.
 
-## Tech stack
+I believe a good product should feel simple on the surface, even when a lot of thought and work goes into building it.
 
-<div align="center">
-  <img src="./assets/skills.svg" width="100%" alt="Skills" />
-</div>
+I'm drawn to clean interfaces, thoughtful details, smooth interactions, and software that solves real problems. I enjoy exploring new tools, learning how things work under the hood, and improving the way I build with every project.
 
-<br/>
-
-| | |
-|:--|:--|
-| **Mobile** | `React Native` `Kotlin` `Java` `Swift` `Flutter` |
-| **Frontend** | `React` `Vue` `Vite` `JavaScript` `HTML5` `CSS` `Tailwind CSS` |
-| **Backend** | `Python` `PHP` `Firebase` `Supabase` |
-| **Databases** | `PostgreSQL` `MySQL` `SQLite` |
-| **Deploy and design** | `Vercel` `Cloudflare` `Figma` |
-
-<br/>
-
-## GitHub stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RafatVerse&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9&border_radius=20&rank_icon=github" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafatVerse&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=C9C9C9&border_radius=20&langs_count=8" alt="Top languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RafatVerse&hide_border=true&background=0D0D0D&border_radius=20&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=C9C9C9&dates=8A8A8A&stroke=2A2A2A" alt="Contribution streak" />
-</div>
-
-<br/>
-
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafatVerse&bg_color=0D0D0D&color=C9C9C9&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&radius=20&title_color=D4AF37" width="100%" alt="Activity graph" />
-</div>
-
-<br/>
-
-## Contribution snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RafatVerse/RafatVerse/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
-</div>
-
-<br/>
-
-## Let's connect
+I don't believe good development is only about making something work. It's also about making it clear, reliable, easy to use, and enjoyable.
 
 <div align="center">
 
-<a href="mailto:rafatverse@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=flat&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
-<a href="https://linkedin.com/in/rafatverse"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" /></a>
-<a href="https://x.com/rafatverse"><img src="https://img.shields.io/badge/X-0D0D0D?style=flat&logo=x&logoColor=D4AF37" alt="X" /></a>
-<a href="https://instagram.com/rafatverse"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat&logo=instagram&logoColor=D4AF37" alt="Instagram" /></a>
-<a href="https://facebook.com/rafatverse"><img src="https://img.shields.io/badge/Facebook-0D0D0D?style=flat&logo=facebook&logoColor=D4AF37" alt="Facebook" /></a>
+> "The goal isn't just to build something that works. It's to build something people love using."
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:000000&height=120&section=footer" width="100%" alt="" />
+### A few things about me
+
+- I enjoy building both the frontend and backend of products.
+- I care about the small details that make an experience feel complete.
+- I prefer clean, useful solutions over unnecessary complexity.
+- I'm always curious about new technologies and better ways to build.
+- I believe consistency and patience matter more than shortcuts.
+
+---
+
+## ✦ My Development Philosophy
+
+| Principle | What it means to me |
+|---|---|
+| **Keep it clear** | Good code and good design should be easy to understand. |
+| **Build with purpose** | Every feature should solve a real problem. |
+| **Care about details** | Small details can change the whole experience. |
+| **Stay curious** | There is always something new worth learning. |
+| **Keep improving** | Every project is a chance to do better than the last. |
+
+---
+
+## ✦ Technology Universe
+
+I work with a growing set of tools and technologies. These are the ones I currently use or explore.
+
+### Languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,java,kotlin,swift,php,html,css&theme=dark&perline=8" />
+</div>
+
+### Frontend & UI
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,vite,figma&theme=dark&perline=8" />
+</div>
+
+### Mobile Development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,flutter,kotlin,java,swift&theme=dark&perline=8" />
+</div>
+
+### Backend, Database & Cloud
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,sqlite,cloudflare,vercel&theme=dark&perline=8" />
+</div>
+
+### Tools & Workflow
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=8" />
+</div>
+
+<sub>My toolkit keeps evolving as I learn, experiment, and take on new challenges.</sub>
+
+---
+
+## ✦ What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Frontend Development
+
+I build clean, responsive interfaces with a focus on layout, usability, and the small details that make a product feel polished.
+
+- Responsive web interfaces
+- Component-based development
+- Modern UI styling
+- Interactive user experiences
+- Performance-minded layouts
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Backend Development
+
+I enjoy building the logic and systems that power an application and connect everything behind the scenes.
+
+- Application logic and APIs
+- Database design and queries
+- Authentication and user flows
+- Cloud services and integrations
+- Data handling and storage
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Mobile Development
+
+I explore mobile development to create useful experiences that feel natural on smaller screens.
+
+- Cross-platform app development
+- Native Android development
+- Mobile-first interface thinking
+- App data and authentication
+- Smooth user flows
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Product & UI Thinking
+
+I care about more than the code. I like thinking about how a product should look, feel, and work for the people using it.
+
+- UI structure and visual balance
+- Simple user journeys
+- Design consistency
+- Interaction details
+- Practical problem solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ Currently Exploring
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=800&color=C6A66B&center=true&vCenter=true&width=700&height=40&lines=Better+ways+to+build+digital+products;Modern+frontend+patterns;Clean+backend+architecture;Thoughtful+UI+and+interaction+design;Learning+something+new+every+day" />
+</div>
+
+I'm interested in getting better at the full product-building process — from the first idea to the final experience.
+
+---
+
+## ✦ GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RafatVerse&show_icons=true&hide_border=true&bg_color=080808&title_color=C6A66B&icon_color=C6A66B&text_color=EAEAEA&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafatVerse&layout=compact&hide_border=true&bg_color=080808&title_color=C6A66B&text_color=EAEAEA&langs_count=8" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=RafatVerse&hide_border=true&background=080808&ring=C6A66B&fire=C6A66B&currStreakLabel=C6A66B&sideLabels=EAEAEA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-profile-trophy.vercel.app/?username=RafatVerse&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+</div>
+
+---
+
+## ✦ Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RafatVerse&bg_color=080808&color=EAEAEA&line=C6A66B&point=FFFFFF&area=true&area_color=6E5731&hide_border=true&custom_title=Contribution%20Timeline" />
+
+</div>
+
+---
+
+## ✦ Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RafatVerse/RafatVerse/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+
+</div>
+
+---
+
+## ✦ Beyond the Code
+
+I enjoy the creative side of building software just as much as the technical side.
+
+A few things that keep me inspired:
+
+- **Design:** Minimal layouts, balanced spacing, and thoughtful details.
+- **Technology:** New tools, useful ideas, and the craft behind good software.
+- **Learning:** Understanding how things work instead of only learning how to use them.
+- **Building:** Turning a rough idea into something real, useful, and complete.
+
+---
+
+## ✦ What I'm Working Toward
+
+I'm focused on becoming a stronger developer by building real things, learning from mistakes, and improving my process.
+
+I want to create products that are not only technically solid but also thoughtful and enjoyable to use.
+
+**One idea. One build. One improvement at a time.**
+
+---
+
+## ✦ Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/RafatVerse">
+<img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<a href="https://www.linkedin.com/in/rafatverse">
+<img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=C6A66B" />
+</a>
+
+<a href="https://www.instagram.com/rafatverse">
+<img src="https://img.shields.io/badge/Instagram-080808?style=for-the-badge&logo=instagram&logoColor=C6A66B" />
+</a>
+
+<a href="https://x.com/rafatverse">
+<img src="https://img.shields.io/badge/X-080808?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+</a>
+
+<br/><br/>
+
+**GitHub:** [@RafatVerse](https://github.com/RafatVerse)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:C6A66B,45:6F5428,100:050505&section=footer&animation=fadeIn" />
+
+### Thanks for visiting my corner of GitHub.
+
+**Stay curious. Keep building. Make it matter.**
+
+<sub>Designed with care · Built with curiosity · Updated as I grow</sub>
+
+</div>
